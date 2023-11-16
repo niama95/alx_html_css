@@ -1,21 +1,36 @@
-body{
-    display: flex;
-    flex-direction: column;
-    background-image: url(img/am.jpg);
-}
-
-main{
+body { 
+    margin: 0px;
+    display: flex; 
+    flex-direction:column;
+    }
+body header { 
+    background-color: darkgreen;
+    margin: 5px;
+    padding: 2px;
+    height: 60px;
+}    
+header ul {
+    justify-content: middle;
+ }
+ header ul li a { 
+    color:blanchedalmond;
+    font-family:'poppins';
+    font-size:20px ;
+ }
+main { 
     display: flex;
     flex-direction: row;
     flex: auto;
 }
-
-article{
+main article { 
     flex: 2;
     overflow-y: auto;
+    color:black;
+    background-color:white;
 }
-
-aside{
-    flex:1;
+main aside { 
+    flex: 1;
     overflow-y: auto;
+    color: black;
+    background-color:lavender;
 }
