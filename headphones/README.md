@@ -1,0 +1,3 @@
+In this project we have 3 versions : 
+   - desktop / tablet and mobile . 
+in this website we have in header menu bar and logo , in the main part we have description of what we are doing  with 4 icons , then we have the next section that speak about results of this brand , and next we have the button contact us , and button with possibility to input our information and last we have footer with social media icons and logo.
