@@ -1,3 +1,2 @@
-In this project we have 3 versions : 
-   - desktop / tablet and mobile . 
-in this website we have in header menu bar and logo , in the main part we have description of what we are doing  with 4 icons , then we have the next section that speak about results of this brand , and next we have the button contact us , and button with possibility to input our information and last we have footer with social media icons and logo.
+In this project we will implement from scratch, without any library, a web page. We will use all HTML/CSS/Accessibility/Responsive design knowledge that we learned Previously.
+You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is to Have a fully functional web page that looks the same as the designer file.
